@@ -26,10 +26,6 @@ todo.controller("todocontroller", function ($scope){
 
     }
 
-   
-
-
-
         
 })
 
